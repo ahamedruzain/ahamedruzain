@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Ahamed Ruzain
 
-<!--
-**ahamedruzain/ahamedruzain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Developer | 🌐 Web Enthusiast | 🚀 Always Learning
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning full-stack development  
+- 💡 Interested in building web apps and automation tools  
+- 🎯 Focused on improving my coding and problem-solving skills  
+- ⚡ I enjoy turning ideas into real projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML, CSS, JavaScript  
+- PHP, Node.js  
+- MySQL  
+- Git & GitHub  
+
+## Connect With Me
+- GitHub: https://github.com/ahamedruzain 
+- LinkedIn: (www.linkedin.com/in/ahamedruzain)  
+- Email: (ahamedruzain0516@gmail.com)
+
+---
+⭐️ Thanks for visiting my profile!
