@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ahamed Ruzain
+# Hi👋, I'm Ahamed Ruzain
 
 💻 Passionate Developer | 🌐 Web Enthusiast | 🚀 Always Learning
 
